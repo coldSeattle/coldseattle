@@ -40,6 +40,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>
   &nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>
+  &nbsp;
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldSeattle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
