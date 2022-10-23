@@ -18,7 +18,7 @@
 ### :man_technologist: About Me :
 
 
-- :telescope: I’m working as a Software Engineer. Currenty using React/React Native.
+- :telescope: I’m working as a Software Developer/Engineering Team Lead. Currenty using React/React Native.
 
 - :seedling: Learning Backend. Currenty Node.js
 
